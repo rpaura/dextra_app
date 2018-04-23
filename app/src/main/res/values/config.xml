@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="url" type="string">http://172.20.159.175:8080/api/</item>
+</resources>
